@@ -4,6 +4,7 @@
 - Смотрю - Глеба Михайлова
 - Книги - Python и анализ данных Уэс Маккинни и другие.
 - Слушаю подкасты про It - NEWHR Podcast, Каждый МОЖЕТ и другие
+- Всегда на связи - https://t.me/MaximBBd
 
 <!---
 MaxBodr/MaxBodr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
